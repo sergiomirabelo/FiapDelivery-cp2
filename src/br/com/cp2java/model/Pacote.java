@@ -1,3 +1,5 @@
+package br.com.cp2java.model;
+
 public class Pacote {
     private String codigo;
     private double pesoKg;

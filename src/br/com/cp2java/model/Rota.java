@@ -1,3 +1,5 @@
+package br.com.cp2java.model;
+
 public class Rota {
     private Pacote pacote;
     private Veiculo veiculo;

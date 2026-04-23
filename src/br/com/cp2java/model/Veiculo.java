@@ -1,3 +1,5 @@
+package br.com.cp2java.model;
+
 public abstract class Veiculo {
     private String placa;
     private double capacidadeKg;

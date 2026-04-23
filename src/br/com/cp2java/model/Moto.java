@@ -1,3 +1,5 @@
+package br.com.cp2java.model;
+
 public class Moto extends Veiculo {
     private boolean possuiBau;
 
